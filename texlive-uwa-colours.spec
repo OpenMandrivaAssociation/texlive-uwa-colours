@@ -1,6 +1,6 @@
 Name:		texlive-uwa-colours
 Version:	60443
-Release:	1
+Release:	2
 Summary:	The colour palette of The University of Western Australia
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-colours

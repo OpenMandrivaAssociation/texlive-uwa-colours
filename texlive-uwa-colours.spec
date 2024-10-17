@@ -3,7 +3,7 @@ Version:	60443
 Release:	2
 Summary:	The colour palette of The University of Western Australia
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/uwa-colours
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/uwa-colours
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-colours.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/uwa-colours.doc.r%{version}.tar.xz
